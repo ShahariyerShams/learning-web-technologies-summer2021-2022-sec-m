@@ -1,0 +1,43 @@
+<employees>
+	<employee>
+		<id>1</id>
+		<name>John</name>
+		<address>
+			<flate></flate>
+			<house>38</house>
+			<road>3</road>
+			<area>Banani</area>
+			<division>Dhaka</division>
+		</address>	
+		
+	
+	</employee>
+		<employee>
+			<id>2</id>
+			<name>Mark /name>
+			<address>
+				<flate>A/1</flate>
+				<house>20</house>
+				<road>18</road>
+				<area>Mirpur</area>
+				<division>Dhaka</division>
+			</address>	
+			
+		
+	
+		</employee>
+		<employee>
+			<id>2</id>
+			<name>Mark /name>
+			<address>
+				<flate></flate>
+				<house>38</house>
+				<road>3</road>
+				<area>Motijheel</area>
+				<division></division>
+			</address>	
+	
+		</employee>
+</employees>
+
+		

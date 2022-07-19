@@ -1,0 +1,6 @@
+20|jim|2022-07-06|01796800194|Bangladesh|Dhaka|2500|ucb|4477575|Shaiaz Internet Service|50000|waa|Investment
+001|Shams|2022-07-06|01796800194|Denmark|Dhaka|2500|ucb|4477575|Flood campain for kurigram|50000|hdchtch|
+20|ji|2022-06-29|55858585858|Ukraine|Chittagong|2500|ucb|4477575|Molla's Book House|40888|vvc
+20|jim|2022-07-06|55858585858|Ukraine|Dhaka|2500|ucb|4477575|Molla's Book House|40888|dchgxhgc
+20|Shaiaz|2022-06-29|01796800194|Bangladesh|Dhaka|2500|ucb|4477575|Molla's Book House|40888|ZzZz
+20|Jayem|2022-07-07|01796800194|Bangladesh|rajshahi|3233|UCB|55667788990|Molla's Book House|30000|uhfiuahiufa

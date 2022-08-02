@@ -1,1 +1,2 @@
-MVC & database function
+MVC model &
+ Database 

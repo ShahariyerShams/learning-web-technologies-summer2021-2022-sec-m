@@ -1,0 +1,3 @@
+001|Jim|2022-07-06|01796800194|Bangladesh|rajshahi|6000|UCB|55667788990|Flood campaign for sylhet |50000|janjiznijaniabi
+02|jim|2022-07-02|01796800194|Bangladesh|rajshahi|2500|UCB|55667788990|Fund for furvivers from Rana Plaza|10000|hiuahiuahiha
+20|jim|2022-06-30|01796800194|UAE|Dhaka|2500|ucb|4477575|Flood campaign for sylhet |50000|hHLJC
